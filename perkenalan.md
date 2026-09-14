@@ -3,6 +3,8 @@
 Nama  : Rakhmat Dwi Saputro 
 NPM   : 2413020093
 Prodi : Teknik Informatika
+Asli  : Banyumas, Jawa Tengah
+Hobi  : Touring (Motoran)
 
 ## Minat Dibidang IT 
 
