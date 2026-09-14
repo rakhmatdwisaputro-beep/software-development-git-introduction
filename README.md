@@ -1,9 +1,10 @@
 # Git Introduction
 
-Repository ini dibuat sebagai tugas pertama untuk memperkenalkan Git dan GitHub pada mata kuliah Software Development.
+Repository ini dibuat sebagai tugas pertama untuk memperkenalkan Git dan GitHub pada mata kuliah ***Software Development***.
 
-Nama : Rakhmat Dwi Saputro
-NPM  : 2413020093
+**Nama** : Rakhmat Dwi Saputro
+
+**NPM**  : 2413020093
 
 
 ## Tujuan Repository
